@@ -1,10 +1,10 @@
 Algoritmo Sumatoria
-	Escribir "Ingrese cantidad de números a sumar"
+	Escribir "Ingrese cantidad de nÃºmeros a sumar"
 	Leer cantidad
 	i<-1
 	suma<-0
 	Mientras i<= cantidad Hacer
-		Escribir "Ingrese número " i
+		Escribir "Ingrese nÃºmero " i
 		Leer num
 		suma<-suma + num
 		i<-i + 1

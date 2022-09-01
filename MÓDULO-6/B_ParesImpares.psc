@@ -1,7 +1,7 @@
 Algoritmo ParesImpares
-	Escribir "Ingrese número inicial del rango"
+	Escribir "Ingrese nÃºmero inicial del rango"
 	Leer inicio
-	Escribir "Ingrese número final del rango"
+	Escribir "Ingrese nÃºmero final del rango"
 	Leer final
 	cantidadPares<-0
 	cantidadImpares<-0
